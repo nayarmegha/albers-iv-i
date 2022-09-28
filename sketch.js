@@ -3,7 +3,7 @@ let clrs = [
 'yellow', //top 0
 'violet', //middle top 1
 'olive', //middle strip 2
-'lime', //middle bottom 3
+'teal', //middle bottom 3
 'green' //bottom 4
 ]
 
