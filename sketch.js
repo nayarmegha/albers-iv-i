@@ -1,10 +1,10 @@
 
 let clrs = [
-'#E27F34', //top 0
-'#FEF254', //middle top 1
-'teal', //middle strip 2
-'#042060', //middle bottom 3
-'#3778AE' //bottom 4
+'yellow', //top 0
+'orange', //middle top 1
+'crimson', //middle strip 2
+'coral', //middle bottom 3
+'maroon' //bottom 4
 ]
 
 
@@ -34,3 +34,4 @@ function canvasRect(clr, hgt, y_offset, clickable) {
 		rect(0, y_offset, width, hgt);
 	}
 }
+
